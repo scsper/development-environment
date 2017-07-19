@@ -1,0 +1,7 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "shift+alt+up", "command": "cursorColumnSelectUp", "when": "editorTextFocus" },
+    { "key": "shift+alt+down", "command": "cursorColumnSelectDown", "when": "editorTextFocus" },
+    { "key": "ctrl+cmd+down", "command": "editor.action.moveLinesDownAction", "when": "editorTextFocus && !editorReadonly" },
+    { "key": "ctrl+cmd+up", "command": "editor.action.moveLinesUpAction", "when": "editorTextFocus && !editorReadonly" }
+]

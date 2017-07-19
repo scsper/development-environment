@@ -1,0 +1,34 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true, // this excludes all folders named "node_modules" from the explore tree
+        "**/coverage": true,
+        "**/.sass-cache": true,
+        "**/tmp": true
+    },
+    "search.exclude": {
+        "**/build": true,
+        "**/public": true
+    },
+    "editor.fontFamily": "Fira Mono",
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "editor.rulers": [
+        120
+    ],
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "javascript.validate.enable": false,
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Eagle Oceanic Next",
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 2,
+    "prettier.singleQuote": true,
+    "prettier.bracketSpacing": false
+}

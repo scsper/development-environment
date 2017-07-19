@@ -1,0 +1,23 @@
+alias h="history"
+alias py="python"
+alias greprli="grep -rli"
+alias grepri="grep -ri"
+alias grepr="grep -r"
+alias greprl="grep -rl"
+
+alias ..="cd .."
+
+# Give colors to folders in the terminal
+alias ls="ls -G"
+
+alias s="git status"
+alias d="git diff --ignore-all-space"
+alias co="git checkout"
+alias c="git commit"
+alias b="git branch"
+alias a="git add"
+alias pull="git pull"
+alias push="git push"
+alias squash="git rebase master -i"
+alias rebase="git rebase master"
+alias psm="pull upstream master"
