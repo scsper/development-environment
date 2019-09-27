@@ -44,3 +44,7 @@ Instructions and files to set up my development environment.
 1. Install [Evernote](https://evernote.com/download)
 1. Install [Spotify](https://www.spotify.com/us/download/other/)
 1. Install [VLC Media Player](https://www.videolan.org/vlc/index.html)
+
+### Mac Settings
+
+1. Disable mouse magnification (http://osxdaily.com/2015/10/08/disable-shake-to-find-cursor-mac-os-x/)
