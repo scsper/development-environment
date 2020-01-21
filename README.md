@@ -34,17 +34,12 @@ Instructions and files to set up my development environment.
 1. Install [Chrome](https://www.google.com/chrome/browser/desktop/index.html?brand=CHBD&gclid=EAIaIQobChMI29W20NuV1QIVB7jACh0zCQoqEAAYASAAEgLje_D_BwE).
   * React developer tools
   * Redux developer tools
-  * Advanced REST Client
-  * EventVODs
-  * Momentum
   * Chrome Cast
 1. Install [Spectacle](https://www.spectacleapp.com/).
 1. Install [Fira Mono](https://fonts.google.com/specimen/Fira+Mono?selection.family=Fira+Mono).
 1. Install [Slack](https://slack.com/downloads/osx)
 1. Install [Facebook Messenger](https://fbmacmessenger.rsms.me/)
-1. Install [Evernote](https://evernote.com/download)
 1. Install [Spotify](https://www.spotify.com/us/download/other/)
-1. Install [VLC Media Player](https://www.videolan.org/vlc/index.html)
 
 ### Mac Settings
 
