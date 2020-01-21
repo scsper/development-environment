@@ -9,6 +9,7 @@ Instructions and files to set up my development environment.
 1. [Upgrade git](https://medium.com/@katopz/how-to-upgrade-git-ff00ea12be18).
 1. Install [zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH).
 1. Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
+1. Install [node](https://nodejs.org/en/).
 1. Install [pure](https://github.com/sindresorhus/pure).
 1. Install [nvm](https://github.com/creationix/nvm).
 1. Install [create-react-app](https://github.com/facebookincubator/create-react-app).
