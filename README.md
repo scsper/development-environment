@@ -44,3 +44,11 @@ Instructions and files to set up my development environment.
 ### Mac Settings
 
 1. Disable mouse magnification (http://osxdaily.com/2015/10/08/disable-shake-to-find-cursor-mac-os-x/)
+
+### Git 
+
+```
+git config --global pager.branch false 
+```
+
+See https://stackoverflow.com/questions/50525244/git-command-output-is-in-editor-vim-and-not-directly-to-terminal-output for why.
