@@ -32,10 +32,12 @@ Instructions and files to set up my development environment.
   * Redux developer tools
   * Chrome Cast
 1. Install [Spectacle](https://www.spectacleapp.com/).
-1. Install [Fira Mono](https://fonts.google.com/specimen/Fira+Mono?selection.family=Fira+Mono).
+1. Install [Fira Code](https://github.com/tonsky/FiraCode).
 1. Install [Slack](https://slack.com/downloads/osx)
 1. Install [Facebook Messenger](https://fbmacmessenger.rsms.me/)
 1. Install [Spotify](https://www.spotify.com/us/download/other/)
+1. Install [Discord](https://discordapp.com/)
+1. Install [1Password](https://1password.com/)
 
 ### Mac Settings
 
