@@ -20,14 +20,10 @@ Instructions and files to set up my development environment.
 1. Install [VSCode](https://code.visualstudio.com/).
 1. Configure `settings`.
 1. Configure `snippets`.
-1. Configure `keybindings.json (Command-K Command-S)
+1. Configure `keybindings.json` (Command-K Command-S)
 1. Configure extensions.
-  * Sublime text keybindings by Microsoft
   * Eagle Oceanic Next color theme by Oleg Orlov.
-  * ESLint by Dirk Baeumer
-  * final-newline by Sam Verschueren
   * prettier by Esben Petersen
-  * Flow Language Support by flowtype
 
 ### Apps
 
