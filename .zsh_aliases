@@ -1,14 +1,4 @@
-alias h="history"
-alias py="python"
-alias greprli="grep -rli"
-alias grepri="grep -ri"
-alias grepr="grep -r"
-alias greprl="grep -rl"
-
-alias ..="cd .."
-
-# Give colors to folders in the terminal
-alias ls="ls -G"
+alias coding="cd ~/code; ls"
 
 alias s="git status"
 alias d="git diff --ignore-all-space"
