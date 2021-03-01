@@ -44,6 +44,7 @@ Instructions and files to set up my development environment.
 
 1. Disable mouse magnification (http://osxdaily.com/2015/10/08/disable-shake-to-find-cursor-mac-os-x/)
 2. Disable "natural scrolling" (Mouse > Uncheck Scroll Direction: Natural)
+3. Keyboard > Key Repeat > Fast (slider all the way to the right); Keyboard > Delay Until Repeat > Short (slider all the way to the right)
 
 ### Git 
 
