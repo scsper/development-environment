@@ -42,6 +42,7 @@ Instructions and files to set up my development environment.
 ### Mac Settings
 
 1. Disable mouse magnification (http://osxdaily.com/2015/10/08/disable-shake-to-find-cursor-mac-os-x/)
+2. Disable "natural scrolling" (Mouse > Uncheck Scroll Direction: Natural)
 
 ### Git 
 
