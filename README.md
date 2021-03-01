@@ -38,6 +38,7 @@ Instructions and files to set up my development environment.
 1. Install [Spotify](https://www.spotify.com/us/download/other/)
 1. Install [Discord](https://discordapp.com/)
 1. Install [1Password](https://1password.com/)
+1. Install [USB Overdrive](https://www.usboverdrive.com/)
 
 ### Mac Settings
 
