@@ -17,7 +17,7 @@ Instructions and files to set up my development environment.
 
 ### Editor
 
-1. Install [VSCode](https://code.visualstudio.com/).
+1. Install [VSCode](https://code.visualstudio.com/).  Use "Settings Sync" and sign in with your Github account.
 1. Configure `settings`.
 1. Configure `snippets`.
 1. Configure `keybindings.json` (Command-K Command-S)
